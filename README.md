@@ -1,3 +1,5 @@
+![FRTLogoUnitwPartners_020921](https://user-images.githubusercontent.com/79411295/151361917-6577268b-82be-4980-b82c-3f8e4ff83ab7.png)
+
 Payment-Gateway-Integration Website
 
 A Responsive Website of "covid relief fund" with payment Gateway integration
