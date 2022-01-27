@@ -25,10 +25,17 @@ Glimpse of Website :
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/79411295/151357780-a7dfbf99-8a84-420a-b69a-48781adcdb26.png)
 
+
+
+
 payment page :
 ![Screenshot (181)](https://user-images.githubusercontent.com/79411295/151357842-1f42156f-5baf-437b-947b-a58a867418d2.png)
 
 
+
+video of code :
+
+https://user-images.githubusercontent.com/79411295/151360804-28c7a6ad-86aa-4116-83b7-73733bb07f38.mp4
 
 
 
